@@ -1,0 +1,7 @@
+.todo {
+    background-color: #ccc;
+}
+
+.isCompleted {
+    text-decoration: line-through;
+}
